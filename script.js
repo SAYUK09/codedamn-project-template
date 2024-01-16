@@ -1,5 +1,11 @@
-const timer = document.querySelector('#time span')
+// Access the input element and submit button here
 
-setInterval(() => {
-	timer.innerText = new Date().toLocaleString()
-}, 1000)
+
+// Add event listener using addEventListener
+
+
+// Create the fetchData funtion here
+
+
+
+// Create a function to update UI with the response data
